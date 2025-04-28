@@ -18,7 +18,7 @@ This project is a hands-on experience in using `fetch()` to interact with an API
 
 ## Preview
 
-![Image](https://github.com/user-attachments/assets/d1d16e13-2976-4ba2-af9f-736f9b0ea56d)
+![Image](https://github.com/user-attachments/assets/fdc1465e-ef22-430b-a7c8-975315061e31)
 
 ## Technologies Used
 
